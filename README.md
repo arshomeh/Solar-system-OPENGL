@@ -8,3 +8,5 @@ Rotate with keys a,d,w,s.
 Pause/Play with space key.
 
 Quit with key q.
+
+feel free to use it :)
