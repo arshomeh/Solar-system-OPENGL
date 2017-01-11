@@ -1,5 +1,5 @@
 # Solar-system-OPENGL
-I made it with Visual Studio 2015. This is a very simple Solar System simulator and was created for Gprahics Programming course.
+I made it with Visual Studio 2015. This is a very simple Solar System simulator and was created for Grahics Programming course.
 
 Zoom in/out with mouse wheel.
 
